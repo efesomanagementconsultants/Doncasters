@@ -1,0 +1,189 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_8B0AFB23_AEEC_510B_41AD_65BAF5BE7F09.url = efeso.com
+LinkBehaviour_88FA4EE1_944F_F667_41CE_254016E457BD.source = https://www.efeso.com/
+LinkBehaviour_93DCFB9B_8FE8_3F87_419E_6A2A02F1BD5A.source = https://www.efeso.com/
+WebFrame_B9710331_AE34_EBE0_41DE_CD4941485CA9.url = https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8&q=48.143979%2C%2020.768933&zoom=15&maptype=satellite
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8&q=48.143979%2C%2020.768933&zoom=15&maptype=satellite
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_B22DA28B_9579_636E_41E1_06B13FF26C6D.text = Acces View
+HotspotPanoramaOverlayTextImage_8074F28E_949F_A366_41D4_BB8C181CFD5A.text = Acces View
+HotspotPanoramaOverlayTextImage_9BC9422D_9499_A3AA_41D3_959AF874A4C4.text = Courtyard Aerial View
+HotspotPanoramaOverlayTextImage_E1AA0910_95A6_A17A_41C8_5E66CA89A37A.text = Entrance View
+HotspotPanoramaOverlayTextImage_8B272EEC_99BF_FC8D_41E0_46F8A1E7228A.text = Finishing \
+
+HotspotPanoramaOverlayTextImage_959139C9_9566_E0EA_41D4_C9FC6FCAF824.text = Inbound
+HotspotPanoramaOverlayTextImage_B6246569_AF3E_833A_41BF_D8927CF0BAB4.text = Inbound \
+
+HotspotPanoramaOverlayTextImage_85CFF4D3_AF17_816F_41CD_867B8F7ECB49.text = Leaching
+HotspotPanoramaOverlayTextImage_95B48FE4_94AF_A0D9_41C3_20833FCCCCF6.text = Leaching
+HotspotPanoramaOverlayTextImage_95620DB2_95AA_A0BE_41C8_DB3C47323E17.text = Leaching
+HotspotPanoramaOverlayTextImage_B6BA3458_957E_A7EA_41D7_24D32153D4D2.text = Lobby
+HotspotPanoramaOverlayTextImage_FDB4BB71_D241_4DBC_41E7_8648143173F2.text = Lobby
+HotspotPanoramaOverlayTextImage_CA807E2D_D240_C7A4_41E8_52A530ECB0C9.text = Lobby \
+
+HotspotPanoramaOverlayTextImage_93EEDFAF_B32E_4E2A_41D2_5D86B7426472.text = Maintenance
+HotspotPanoramaOverlayTextImage_88E5781F_99C3_438C_41B3_3E74131CC0E7.text = Maintenance
+HotspotPanoramaOverlayTextImage_95B1AE2B_94A9_E3AE_41C7_7C3A9C8E7C1B.text = Maintenance
+HotspotPanoramaOverlayTextImage_C6F2193A_D243_4DAC_41D4_CB1E214DEFD4.text = Meeting Room
+HotspotPanoramaOverlayTextImage_95B2CF69_94AB_A1AA_41B5_AE093B2C0176.text = Packing
+HotspotPanoramaOverlayTextImage_894483CC_99CD_448C_41E1_42CDF8CE525B.text = Packing
+HotspotPanoramaOverlayTextImage_A4623309_B316_57D6_41D9_3EB6922A8782.text = Preparation
+HotspotPanoramaOverlayTextImage_95AE8AAF_94BB_A0A6_41C7_3369E371424F.text = Preparation
+HotspotPanoramaOverlayTextImage_90022DED_B333_F229_41BC_0277960CB8C0.text = Preparation
+HotspotPanoramaOverlayTextImage_A6B19535_B31E_523E_41D6_279C60F4E8A7.text = Quality Inspection
+HotspotPanoramaOverlayTextImage_5E3F3005_448C_98F9_41C0_9C56253665AE.text = Quality Inspection
+HotspotPanoramaOverlayTextImage_8A5BCE9F_99C7_DC8C_41B6_D0A6A0B96D5C.text = Quality Inspection inhouse Area \
+
+HotspotPanoramaOverlayTextImage_C6B1427B_D243_7FAC_4185_018F55B62002.text = Training room
+HotspotPanoramaOverlayTextImage_96272E27_99CC_BFBC_41BD_19A4EBADFFF1.text = Welding
+HotspotPanoramaOverlayTextImage_B250BE2B_AF3F_813F_41D5_701D3BBCB84D.text = Welding \
+
+
+## Media
+
+### Image
+imlevel_955EBD52_959B_E1FE_41CC_30A4AE9E739F.url = media/panorama_69FDE67B_7E97_DD4A_41D3_5E9FFB403F44_HS_d39j2hq4_en.png
+imlevel_DF904F0A_95A7_616E_41DA_ED2F0E6F9DA4.url = media/panorama_69FDE67B_7E97_DD4A_41D3_5E9FFB403F44_HS_uu22fub7_en.png
+imlevel_FA60BFCA_D241_44EC_419D_CF4BE886CD29.url = media/panorama_6A0FF054_B572_33C6_41CE_AA042528F87B_HS_fey6uiqr_en.png
+imlevel_869B1789_9499_616A_41D6_BFA020E3DFA2.url = media/panorama_6E49233D_7E97_B4CE_41D5_B68CDA093283_HS_sk1vqrsa_en.png
+imlevel_BC3A8239_B2EE_D636_41DD_01BC6A8A628E.url = media/panorama_7040B107_7A93_D4BA_41D6_2C320597942D_HS_ji1b9uut_en.png
+imlevel_BC191269_B2EE_D656_41D8_C698E12F22FC.url = media/panorama_7040B107_7A93_D4BA_41D6_2C320597942D_HS_ntjb6x6w_en.png
+imlevel_F97EED11_C329_AB3A_41CC_3B4241916F5B.url = media/panorama_7040B107_7A93_D4BA_41D6_2C320597942D_HS_q3n5ep0i_en.png
+imlevel_F95F9CEB_C329_AAEE_41D3_05C14D967ECD.url = media/panorama_70461A20_7A93_B4F6_41C6_BA23B1DE0C27_HS_le6dwzn7_en.png
+imlevel_959CC91D_949F_A16B_41DF_3BB21DA93B10.url = media/panorama_7046234B_7A93_BB4B_41D1_A5CD5222F1E0_HS_8ccqa8kf_en.png
+imlevel_E53FD142_D27F_DDDC_41D4_A29823A67D89.url = media/panorama_7046234B_7A93_BB4B_41D1_A5CD5222F1E0_HS_e2cno1sb_en.png
+imlevel_959CC92D_949F_A1AB_41E0_452E291FF28C.url = media/panorama_7046234B_7A93_BB4B_41D1_A5CD5222F1E0_HS_u9w3gqid_en.png
+imlevel_BC2C791F_AD9C_B13B_41D6_00768D9F4B24.url = media/panorama_7047677A_7A93_DB55_41C5_FF6193DF9F4E_HS_3b1j36rg_en.png
+imlevel_BC2C7906_AD9C_B10D_41E4_B8B9019C943F.url = media/panorama_7047677A_7A93_DB55_41C5_FF6193DF9F4E_HS_gl3ml2wc_en.png
+imlevel_BC3228EE_AD9C_BF1D_41E0_26518436FE37.url = media/panorama_7047677A_7A93_DB55_41C5_FF6193DF9F4E_HS_wn7bwb34_en.png
+imlevel_A96222D5_B372_54C1_41E0_E5B4AF801A06.url = media/panorama_70479E93_7A93_EDDA_41D6_D395990901B3_HS_guhep40z_en.png
+imlevel_BC1752A3_B2EE_D6DA_41D6_E37AB5506106.url = media/panorama_70479E93_7A93_EDDA_41D6_D395990901B3_HS_nu5kegmp_en.png
+imlevel_944C5608_98F2_CC9E_41B5_DA6F1DCC91A2.url = media/panorama_704BEC9E_7A93_ADCA_41C4_849C9F6F0AAF_HS_adkxl539_en.png
+imlevel_944F05EA_98F2_CF92_41DF_5419F227F8A2.url = media/panorama_704BEC9E_7A93_ADCA_41C4_849C9F6F0AAF_HS_i24rqcml_en.png
+imlevel_946E25C5_98F2_CF96_41D4_AB10B5C0C039.url = media/panorama_704BEC9E_7A93_ADCA_41C4_849C9F6F0AAF_HS_ti1w1c51_en.png
+imlevel_0A883B13_95E6_E17E_41DE_4CD5F8BD6FBB.url = media/panorama_767B73F5_7AF5_DB5E_4184_6676C3220120_HS_hx9brkj6_en.png
+imlevel_955EBD3B_959B_E1AE_41AE_C48059409E05.url = media/panorama_767B73F5_7AF5_DB5E_4184_6676C3220120_HS_ryjg2l2v_en.png
+imlevel_A9597344_B372_55C7_41D1_BE574BAEDFAD.url = media/panorama_951D653D_B332_522E_41E4_AEEDC642D13D_HS_p1we5246_en.png
+imlevel_F97E4D2E_C329_AB69_41E1_E4BC9AE831B6.url = media/panorama_951D653D_B332_522E_41E4_AEEDC642D13D_HS_rmximbxx_en.png
+imlevel_A96212BC_B372_5747_41D5_799C2F2C0155.url = media/panorama_96E3DBD5_98F2_5BB6_41DE_0193DF83ADE0_HS_etxgzhr2_en.png
+imlevel_FA44AF91_D241_457C_41CD_8003ED0F7F99.url = media/panorama_96E3DBD5_98F2_5BB6_41DE_0193DF83ADE0_HS_r3x0jryp_en.png
+imlevel_FA61FFB3_D241_44BC_41CA_29CE479F533E.url = media/panorama_9BC21994_B337_F2FE_41CC_2CC152DF0785_HS_ecquurma_en.png
+imlevel_A9598320_B372_557E_41E1_E3D3785EB6C4.url = media/panorama_BFF8281F_B2EE_31EA_41BD_1DAE12061E91_HS_4q5xwiew_en.png
+imlevel_A96372EC_B372_54C7_41D8_139151B10C23.url = media/panorama_BFF8281F_B2EE_31EA_41BD_1DAE12061E91_HS_6kbucaep_en.png
+imlevel_5B2618DE_55BF_4F50_41D1_A5A0ED632725.url = media/popup_89D9CD0D_98F2_BC96_41D9_B2AD6F514052_en_0_0.jpg
+imlevel_5B2608DE_55BF_4F50_41AC_E3A11D322280.url = media/popup_89D9CD0D_98F2_BC96_41D9_B2AD6F514052_en_0_1.jpg
+imlevel_5B2638DE_55BF_4F50_41C5_6BE01B2CA6BE.url = media/popup_89D9CD0D_98F2_BC96_41D9_B2AD6F514052_en_0_2.jpg
+imlevel_5B2628DE_55BF_4F50_41A2_51A983DDC056.url = media/popup_89D9CD0D_98F2_BC96_41D9_B2AD6F514052_en_0_3.jpg
+imlevel_5B2438DF_55BF_4F50_41CC_55D46A3DFB20.url = media/popup_89D9CD0D_98F2_BC96_41D9_B2AD6F514052_en_0_4.jpg
+imlevel_5B79836B_55BF_4177_41C1_160AA6435A51.url = media/popup_959F3A8E_949A_E366_41E0_4696BD2FFE66_en_0_0.jpg
+imlevel_5B79736C_55BF_4171_41D1_B895180BB5F8.url = media/popup_959F3A8E_949A_E366_41E0_4696BD2FFE66_en_0_1.jpg
+imlevel_5B79536C_55BF_4171_41C7_77AF29E402F4.url = media/popup_959F3A8E_949A_E366_41E0_4696BD2FFE66_en_0_2.jpg
+imlevel_5B79436C_55BF_4171_41C4_A08E0FA5FC30.url = media/popup_959F3A8E_949A_E366_41E0_4696BD2FFE66_en_0_3.jpg
+imlevel_5B07536C_55BF_4171_41BC_B7229FD4CC4A.url = media/popup_959F3A8E_949A_E366_41E0_4696BD2FFE66_en_0_4.jpg
+imlevel_5B1331CD_55BF_41B3_41BD_9F495F19CD4F.url = media/popup_A846B568_B37E_5DCE_41A6_62AC681FEF9B_en_0_0.jpg
+imlevel_5B1301CD_55BF_41B3_41B3_F17081FE5F39.url = media/popup_A846B568_B37E_5DCE_41A6_62AC681FEF9B_en_0_1.jpg
+imlevel_5B1311CE_55BF_41B1_41D0_5CAAF214E4DD.url = media/popup_A846B568_B37E_5DCE_41A6_62AC681FEF9B_en_0_2.jpg
+imlevel_5B12F1CE_55BF_41B1_41C1_071673E8AE27.url = media/popup_A846B568_B37E_5DCE_41A6_62AC681FEF9B_en_0_3.jpg
+imlevel_5B10F1CE_55BF_41B1_41CE_E2678016EAB0.url = media/popup_A846B568_B37E_5DCE_41A6_62AC681FEF9B_en_0_4.jpg
+imlevel_5B0C0AA1_55BF_43F2_41AE_C725757CE4AB.url = media/popup_B45639DF_B53E_54C1_41A4_E0B24AD0A987_en_0_0.jpg
+imlevel_5B0C1AA2_55BF_43F1_41D5_23C5E71F4AFF.url = media/popup_B45639DF_B53E_54C1_41A4_E0B24AD0A987_en_0_1.jpg
+imlevel_5B0FEAA2_55BF_43F1_4193_5A16CDA22F5E.url = media/popup_B45639DF_B53E_54C1_41A4_E0B24AD0A987_en_0_2.jpg
+imlevel_5B0FFAA2_55BF_43F1_41C4_3722EBDFAFBA.url = media/popup_B45639DF_B53E_54C1_41A4_E0B24AD0A987_en_0_3.jpg
+imlevel_5B0DEAA3_55BF_43F7_41C1_634BC53DD157.url = media/popup_B45639DF_B53E_54C1_41A4_E0B24AD0A987_en_0_4.jpg
+imlevel_5B644DF5_55BC_C153_41D0_1C8AA78622DE.url = media/popup_B4570E16_B53E_4F42_41CD_43D3F046F654_en_0_0.jpg
+imlevel_5B645DF5_55BC_C153_41D1_0076235BE45F.url = media/popup_B4570E16_B53E_4F42_41CD_43D3F046F654_en_0_1.jpg
+imlevel_5B647DF5_55BC_C153_41D2_CBA2FB972C10.url = media/popup_B4570E16_B53E_4F42_41CD_43D3F046F654_en_0_2.jpg
+imlevel_5B648DF5_55BC_C153_41D4_22F7C27721AD.url = media/popup_B4570E16_B53E_4F42_41CD_43D3F046F654_en_0_3.jpg
+imlevel_5B649DF5_55BC_C153_41BA_69B3C1B0D571.url = media/popup_B4570E16_B53E_4F42_41CD_43D3F046F654_en_0_4.jpg
+imlevel_5B6934AD_55BC_C7F0_41BE_936DE6C81E1B.url = media/popup_E4DA9CF7_B317_CCC2_41D0_490CEDB1C6A9_en_0_0.jpg
+imlevel_5B6944AD_55BC_C7F0_41C6_7875200FFD7F.url = media/popup_E4DA9CF7_B317_CCC2_41D0_490CEDB1C6A9_en_0_1.jpg
+imlevel_5B6984AE_55BC_C7F1_41D1_622DCF485262.url = media/popup_E4DA9CF7_B317_CCC2_41D0_490CEDB1C6A9_en_0_2.jpg
+imlevel_5B6994AE_55BC_C7F1_41D3_759F149689CB.url = media/popup_E4DA9CF7_B317_CCC2_41D0_490CEDB1C6A9_en_0_3.jpg
+imlevel_5B69B4AE_55BC_C7F1_41D4_97A167D89B8F.url = media/popup_E4DA9CF7_B317_CCC2_41D0_490CEDB1C6A9_en_0_4.jpg
+imlevel_5B732BE4_55BF_4170_41B9_F96071EAFC44.url = media/popup_E78941BB_B312_3541_41D3_6C2F5B5105D8_en_0_0.jpg
+imlevel_5B731BE4_55BF_4170_41C0_11436E42DF6C.url = media/popup_E78941BB_B312_3541_41D3_6C2F5B5105D8_en_0_1.jpg
+imlevel_5B72EBE4_55BF_4170_41D1_BA701B5BDCC4.url = media/popup_E78941BB_B312_3541_41D3_6C2F5B5105D8_en_0_2.jpg
+imlevel_5B72DBE5_55BF_4170_419A_613443FD2275.url = media/popup_E78941BB_B312_3541_41D3_6C2F5B5105D8_en_0_3.jpg
+imlevel_5B70CBE5_55BF_4170_41D4_5DECA7380C9A.url = media/popup_E78941BB_B312_3541_41D3_6C2F5B5105D8_en_0_4.jpg
+
+### Popup Image
+
+### Title
+video_6F2A16DC_B577_FCC6_41D9_5841EE2FDBA3.label = 1728907234169
+album_959C1FF6_949E_A0A6_4199_48B19AB76DA1_0.label = 240912 Doncasters Plant Layout SSU2
+panorama_6E49233D_7E97_B4CE_41D5_B68CDA093283.label = Acces View
+panorama_767B73F5_7AF5_DB5E_4184_6676C3220120.label = Courtyard Aerial View
+video_8C7A53EE_AFA4_F11D_41D9_73321B5A2D1F.label = Doncasters Location
+panorama_69FDE67B_7E97_DD4A_41D3_5E9FFB403F44.label = Entrance View
+panorama_7047677A_7A93_DB55_41C5_FF6193DF9F4E.label = Finishing
+panorama_BFF8281F_B2EE_31EA_41BD_1DAE12061E91.label = Inbound
+panorama_704BEC9E_7A93_ADCA_41C4_849C9F6F0AAF.label = Leaching
+panorama_96E3DBD5_98F2_5BB6_41DE_0193DF83ADE0.label = Lobby
+panorama_70479E93_7A93_EDDA_41D6_D395990901B3.label = Maintenance
+panorama_9BC21994_B337_F2FE_41CC_2CC152DF0785.label = Meeting room
+panorama_70461A20_7A93_B4F6_41C6_BA23B1DE0C27.label = Packing
+album_959C1FF6_949E_A0A6_4199_48B19AB76DA1.label = Photo Album 240912 Doncasters Plant Layout SSU2
+panorama_7046234B_7A93_BB4B_41D1_A5CD5222F1E0.label = Preparation
+panorama_7040B107_7A93_D4BA_41D6_2C320597942D.label = Quality Inspection
+panorama_6A0FF054_B572_33C6_41CE_AA042528F87B.label = Training room
+panorama_951D653D_B332_522E_41E4_AEEDC642D13D.label = Welding
+
+### Video
+videolevel_45204B28_55CC_C2F5_41BF_3200EEF2498C.url = media/video_6F2A16DC_B577_FCC6_41D9_5841EE2FDBA3_en.mp4
+videolevel_45204B28_55CC_C2F5_41BF_3200EEF2498C.posterURL = media/video_6F2A16DC_B577_FCC6_41D9_5841EE2FDBA3_poster_en.jpg
+videolevel_4519CAA3_55CC_C3FB_41D4_3B70FC5D6097.url = media/video_8C7A53EE_AFA4_F11D_41D9_73321B5A2D1F_en.mp4
+videolevel_4519CAA3_55CC_C3FB_41D4_3B70FC5D6097.posterURL = media/video_8C7A53EE_AFA4_F11D_41D9_73321B5A2D1F_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = EXTERIOR
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = EXTERIOR
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = FACTORY
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = FACTORY
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = FLOORPLAN
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = LOCATION
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
+Button_95C915B4_8F28_6B82_41DD_4F19DD7F08EE_mobile.label = OFFICES
+Button_981A50A6_8F28_E981_41E0_9878FB42DB49.label = OFFICES
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+
+### Image
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_en.png
+Image_95DF1639_8F28_2882_41E0_872B6F60AD46.url = skin/Image_95DF1639_8F28_2882_41E0_872B6F60AD46_en.png
+Image_95E5AD23_8F28_7887_41DD_172188046F24.url = skin/Image_95E5AD23_8F28_7887_41DD_172188046F24_en.png
+Image_9AF54257_8F28_688F_41D1_44C4A16FCE39.url = skin/Image_9AF54257_8F28_688F_41D1_44C4A16FCE39_en.png
+
+### Multiline Text
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.260000000000012vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_969906D8_8F68_6981_4193_F7F3A6AB7816.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.705314009661841vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.71vh;font-family:'Montserrat';">EXTERIOR:</SPAN></SPAN></DIV></div>
+HTMLText_14F8FFD9_B31D_CCCE_41D0_A42B35325102.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.705314009661841vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.71vh;font-family:'Montserrat';">EXTERIOR:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.705314009661841vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.71vh;font-family:'Montserrat';">FACTORY:</SPAN></SPAN></DIV></div>
+HTMLText_1A6A0D06_B312_4D43_41C8_A8636BFE2548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.705314009661841vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.71vh;font-family:'Montserrat';">OFFICES:</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.76000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000028vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000028vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.3900000000000072vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5300000000000016vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5300000000000016vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.300000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000016vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;"> </SPAN><SPAN STYLE="font-size:1.53vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000016vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000016vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000016vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000016vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.76000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.671497584541066vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.67vmin;font-family:'Montserrat';">LOCATION</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.3900000000000072vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:3.39vmin;font-family:'Bebas Neue Bold';">Mischkolz, hungary</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.420000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">The DONCASTERS industrial plant is strategically located in Mischkolz's thriving industrial park, a rapidly growing hub for innovation and production. Surrounded by well-established infrastructure and numerous successful businesses, this area exemplifies a flourishing industrial landscape, making it an ideal environment for our project.</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000034vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.05vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.159651162790714vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:8.16vmin;font-family:'Bebas Neue Bold';">Mischkolz, hungary</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.4179069767441908vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.42vmin;">The DONCASTERS industrial plant is strategically located in Mischkolz's thriving industrial park, a rapidly growing hub for innovation and production. Surrounded by well-established infrastructure and numerous successful businesses, this area exemplifies a flourishing industrial landscape, making it an ideal environment for our project.</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.73000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.73000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000018vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6099999999999985vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6099999999999985vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.230000000000018vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6099999999999985vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6099999999999985vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6099999999999985vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6099999999999985vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6099999999999985vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+HTMLText_94E71CF9_8F28_D983_41D6_8FE0D7C6268F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.555555555555563vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Montserrat';">EXTERIOR:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.555555555555563vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Montserrat';">FACTORY:</SPAN></SPAN></DIV></div>
+HTMLText_93374ED0_8FE8_7981_41B6_108D292EB02B_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.555555555555563vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Montserrat';">OFFICES:</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Doncasters 3D Tour
