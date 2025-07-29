@@ -6,7 +6,7 @@
 PopupWebFrameBehaviour_8B0AFB23_AEEC_510B_41AD_65BAF5BE7F09.url = efeso.com
 LinkBehaviour_88FA4EE1_944F_F667_41CE_254016E457BD.source = https://www.efeso.com/
 LinkBehaviour_93DCFB9B_8FE8_3F87_419E_6A2A02F1BD5A.source = https://www.efeso.com/
-WebFrame_B9710331_AE34_EBE0_41DE_CD4941485CA9.url = https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8&q=48.143979%2C%2020.768933&zoom=15&maptype=satellite
+WebFrame_B9710331_AE34_EBE0_41DE_CD4941485CA9.url = https://www.google.com/maps?q=PARC%20INDUSTRIAL%20INCONTRO%20TIMISOARA&zoom=15&maptype=satellite
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8&q=48.143979%2C%2020.768933&zoom=15&maptype=satellite
 
 ## Hotspot
